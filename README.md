@@ -4,13 +4,13 @@
 
 |Language|Progress|
 |-:|-:|
-|C++|3%|
-|C#|23%|
-|Java|1%|
-|JavaScript|4%|
-|Python|8%|
-|Ruby|2%|
-|TypeScript|0%|
+|C++|![](https://geps.dev/progress/3?min=0&max=100)|
+|C#|![](https://geps.dev/progress/42?min=0&max=178)|
+|Java|![](https://geps.dev/progress/2?min=0&max=158)|
+|JavaScript|![](https://geps.dev/progress/7?min=0&max=159)|
+|Python|![](https://geps.dev/progress/12?min=0&max=146)|
+|Ruby|![](https://geps.dev/progress/3?min=0&max=121)|
+|TypeScript|![](https://geps.dev/progress/0?min=0&max=108)|
 
 ## Submitted Exercises
 
