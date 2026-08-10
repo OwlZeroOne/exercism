@@ -20,6 +20,11 @@
 
 ### Java
 
+||Basics|
+|--|:-:|
+|Hello World||
+|||
+
 ### JavaScript
 
 ### Python
