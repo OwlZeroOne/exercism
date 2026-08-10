@@ -26,12 +26,14 @@
 
 ### Ruby
 
-|Exercise Name|Concepts|
-|:-|:-|
-|Hello World||
-|Lasagna|Basics|
-|Amusement Park|Instance Variables, Nil|
-|Log Line Parser|Strings|
-|Amusement Park Improvements|Booleans|
+||Basics|Instance Variables|Nil|Strings|Booleans|Conditionals|Floats|Numbers|
+|--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Hello World|||||||||
+|Lasagna|✅||||||||
+|Amusemsnt Park||✅|✅||||||
+|Log Line Parser||||✅|||||
+|Amusement Park Improvements|||||✅||||
+|Assembly Line||||||✅|✅|✅|
+
 
 ### TypeScript
