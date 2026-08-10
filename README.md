@@ -9,7 +9,7 @@
 |Java|![](https://geps.dev/progress/2?min=0&max=158&barColor=F89820)|
 |JavaScript|![](https://geps.dev/progress/7?min=0&max=159&barColor=F0DB4F)|
 |Python|![](https://geps.dev/progress/12?min=0&max=146&barColor=FFD343)|
-|Ruby|![](https://geps.dev/progress/8?min=0&max=121&barColor-9B111E)|
+|Ruby|![](https://geps.dev/progress/9?min=0&max=121&barColor-9B111E)|
 |TypeScript|![](https://geps.dev/progress/0?min=0&max=108&barColor=3178C6)|
 
 ## Submitted Exercises
@@ -26,15 +26,16 @@
 
 ### Ruby
 
-||Basics|Instance Variables|Nil|Strings|Booleans|Conditionals|Floats|Numbers|Exceptions|Ternary Operators|
-|--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Hello World|||||||||||
-|Lasagna|✅||||||||||
-|Amusemsnt Park||✅|✅||||||||
-|Log Line Parser||||✅|||||||
-|Amusement Park Improvements|||||✅||||||
-|Assembly Line||||||✅|✅|✅|||
-|Simple Calculator|||||||||✅||
-|Moviegoer|||||||||✅|✅|
+||Basics|Instance Variables|Nil|Strings|Booleans|Conditionals|Floats|Numbers|Exceptions|Ternary Operators|Loops|Modules|
+|--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Hello World|||||||||||||
+|Lasagna|✅||||||||||||
+|Amusemsnt Park||✅|✅||||||||||
+|Log Line Parser||||✅|||||||||
+|Amusement Park Improvements|||||✅||||||||
+|Assembly Line||||||✅|✅|✅|||||
+|Simple Calculator|||||||||✅||||
+|Moviegoer||||||||||✅|||
+|Savings Account|||||||||||✅|✅|
 
 ### TypeScript
