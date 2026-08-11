@@ -4,13 +4,13 @@
 
 |   Language |                                               Concepts Learned |                                             Exercises Completed |
 |-----------:|---------------------------------------------------------------:|----------------------------------------------------------------:|
-|       C++  |                                                                |  ![](https://geps.dev/progress/3?min=0&max=100&barColor=6BAFEA) |
-|         C# |                                                                | ![](https://geps.dev/progress/42?min=0&max=178&barColor=AB65C9) |
+|       C++  |  ![](https://geps.dev/progress/2?min=0&max=19&barColor=6BAFEA) |  ![](https://geps.dev/progress/3?min=0&max=100&barColor=6BAFEA) |
+|         C# | ![](https://geps.dev/progress/46?min=0&max=62&barColor=AB65C9) | ![](https://geps.dev/progress/42?min=0&max=178&barColor=AB65C9) |
 |       Java |  ![](https://geps.dev/progress/1?min=0&max=26&barColor=F89820) |  ![](https://geps.dev/progress/2?min=0&max=158&barColor=F89820) |
-| JavaScript |                                                                |  ![](https://geps.dev/progress/7?min=0&max=159&barColor=F0DB4F) |
+| JavaScript |  ![](https://geps.dev/progress/8?min=0&max=37&barColor=F0DB4F) |  ![](https://geps.dev/progress/7?min=0&max=159&barColor=F0DB4F) |
 |     Python |  ![](https://geps.dev/progress/5?min=0&max=17&barColor=FFD343) | ![](https://geps.dev/progress/12?min=0&max=146&barColor=FFD343) |
-|       Ruby | ![](https://geps.dev/progress/15?min=0&max=21&barColor=9B111E) | ![](https://geps.dev/progress/11?min=0&max=121&barColor=9B111E) |
-| TypeScript |                                                                |  ![](https://geps.dev/progress/0?min=0&max=108&barColor=3178C6) |
+|       Ruby | ![](https://geps.dev/progress/14?min=0&max=21&barColor=9B111E) | ![](https://geps.dev/progress/11?min=0&max=121&barColor=9B111E) |
+| TypeScript |                                                            N/A |  ![](https://geps.dev/progress/0?min=0&max=108&barColor=3178C6) |
 
 ## Submitted Exercises
 
@@ -22,7 +22,6 @@
 
 |             | Basics |
 |-------------|:------:|
-| Hello World |        |
 | Lasagna     |   ✅   |
 |             |        |
 
@@ -36,18 +35,17 @@
 
 ### Ruby
 
-|                             | Basics | Instance Variables | Nil | Strings  | Booleans  | Conditionals  | Floats  | Numbers  | Exceptions  | Ternary Operators  | Loops  | Modules  | Namespaces | Symbols |
-|-----------------------------|:------:|:------------------:|:---:|:--------:|:---------:|:-------------:|:-------:|:--------:|:-----------:|:------------------:|:------:|:--------:|:----------:|:-------:|
-| Hello World                 |        |                    |     |          |           |               |         |          |             |                    |        |          |            |         |
-| Lasagna                     |   ✅   |                    |     |          |           |               |         |          |             |                    |        |          |            |         |
-| Amusemsnt Park              |        |         ✅         | ✅  |          |           |               |         |          |             |                    |        |          |            |         |
-| Log Line Parser             |        |                    |     |    ✅    |           |               |         |          |             |                    |        |          |            |         |
-| Amusement Park Improvements |        |                    |     |          |    ✅     |               |         |          |             |                    |        |          |            |         |
-| Assembly Line               |        |                    |     |          |           |      ✅       |   ✅    |    ✅    |             |                    |        |          |            |
-| Simple Calculator           |        |                    |     |          |           |               |         |          |     ✅      |                    |        |          |            |         |
-| Moviegoer                   |        |                    |     |          |           |               |         |          |             |         ✅         |        |          |            |         |
-| Savings Account             |        |                    |     |          |           |               |         |          |             |                    |   ✅   |    ✅    |            |         |
-| Last Will                   |        |                    |     |          |           |               |         |          |             |                    |        |          |     ✅     |         |
-| Port Palermo                |        |                    |     |          |           |               |         |          |             |                    |        |          |            |   ✅    |
+|                             | Basics | Instance Variables | Nil | Strings  | Booleans  | Conditionals  | Floats  | Numbers  | Exceptions  | Ternary Operators  | Loops  | Modules  | Namespaces | Symbols | Ranges | Case | Arrays | Enumeration | Adv. Enumeration | Ostrtuct | Multiple Assignment |
+|-----------------------------|:------:|:------------------:|:---:|:--------:|:---------:|:-------------:|:-------:|:--------:|:-----------:|:------------------:|:------:|:--------:|:----------:|:-------:|:------:|:----:|:------:|:-----------:|:----------------:|:--------:|:-------------------:|
+| Lasagna                     |   ✅   |                    |     |          |           |               |         |          |             |                    |        |          |            |         |        |      |        |             |                  |          |                     |
+| Amusemsnt Park              |        |         ✅         | ✅  |          |           |               |         |          |             |                    |        |          |            |         |        |      |        |             |                  |          |                     |
+| Log Line Parser             |        |                    |     |    ✅    |           |               |         |          |             |                    |        |          |            |         |        |      |        |             |                  |          |                     |
+| Amusement Park Improvements |        |                    |     |          |    ✅     |               |         |          |             |                    |        |          |            |         |        |      |        |             |                  |          |                     |
+| Assembly Line               |        |                    |     |          |           |      ✅       |   ✅    |    ✅    |             |                    |        |          |            |         |        |      |        |             |                  |          |                     |
+| Simple Calculator           |        |                    |     |          |           |               |         |          |     ✅      |                    |        |          |            |         |        |      |        |             |                  |          |                     |
+| Moviegoer                   |        |                    |     |          |           |               |         |          |             |         ✅         |        |          |            |         |        |      |        |             |                  |          |                     |
+| Savings Account             |        |                    |     |          |           |               |         |          |             |                    |   ✅   |    ✅    |            |         |        |      |        |             |                  |          |                     |
+| Last Will                   |        |                    |     |          |           |               |         |          |             |                    |        |          |     ✅     |         |        |      |        |             |                  |          |                     |
+| Port Palermo                |        |                    |     |          |           |               |         |          |             |                    |        |          |            |   ✅    |        |      |        |             |                  |          |                     |
 
-### TypeScript
+## # TypeScript
