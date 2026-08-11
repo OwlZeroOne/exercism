@@ -1,6 +1,7 @@
 *.md
 !/README.md
 *.json
+*.idea
 
 # Java
 java/*/*
