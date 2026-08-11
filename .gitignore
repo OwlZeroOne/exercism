@@ -6,8 +6,5 @@
 # Java
 java/*/*
 !java/*/src/
-java/*/src/*
-!java/*/src/main/
-!java/*/src/main/**
 
 
