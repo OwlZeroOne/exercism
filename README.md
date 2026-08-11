@@ -12,7 +12,7 @@
 |       Ruby | ![](https://geps.dev/progress/14?min=0&max=21&barColor=9B111E) | ![](https://geps.dev/progress/11?min=0&max=121&barColor=9B111E) |
 | TypeScript |                                                            N/A |  ![](https://geps.dev/progress/0?min=0&max=108&barColor=3178C6) |
 
-## Submitted Exercises
+## Concepts Learned
 
 ### C++
 
@@ -68,22 +68,22 @@
 |              Dictionaries | Not Supplied  |    ✅     |                  |
 |         Switch Statements | Not Supplied  |    ✅     |                  |
 |                     Enums | Not Supplied  |    ✅     |                  |
-|                      Time | Not Supplied  |           |                  |
-|                  Timezone | Not Supplied  |           |                  |
+|                      Time |               |           |                  |
+|                  Timezone |               |           |                  |
 |                Exceptions | Not Supplied  |    ✅     |                  |
 |                   Casting | Not Supplied  |    ✅     |                  |
 |                  Overflow | Not Supplied  |    ✅     |        ✅        |
 |                Properties | Not Supplied  |    ✅     |                  |
 |                Attributes | Not Supplied  |    ✅     |        ✅        |
 |                Flag Enums | Not Supplied  |    ✅     |                  |
-|          Resource Cleanup | Not Supplied  |           |                  |
-|         String Formatting | Not Supplied  |           |                  |
-|          Verbatim Strings | Not Supplied  |           |                  |
+|          Resource Cleanup |               |           |                  |
+|         String Formatting |               |           |                  |
+|          Verbatim Strings |               |           |                  |
 |                Interfaces | Not Supplied  |    ✅     |                  |
 |                  Ordering | Not Supplied  |    ✅     |                  |
 |       Exception Filtering | Not Supplied  |    ✅     |        ✅        |
 |   User-Defined Exceptions | Not Supplied  |    ✅     |        ✅        |
-|         Resource Lifetime | Not Supplied  |           |                  |
+|         Resource Lifetime |               |           |                  |
 |      Conditionals Ternary | Not Supplied  |    ✅     |        ✅        |
 | Expression Bodied Members | Not Supplied  |    ✅     |        ✅        |
 |        Switch Expressions | Not Supplied  |    ✅     |                  |
@@ -91,18 +91,18 @@
 |        Method Overloading | Not Supplied  |    ✅     |        ✅        |
 |           Named Arguments | Not Supplied  |    ✅     |        ✅        |
 |       Optional Parameters | Not Supplied  |    ✅     |                  |
-|       Object Initialisers | Not Supplied  |           |                  |
-|       Regular Expressions | Not Supplied  |           |                  |
+|       Object Initialisers |               |           |                  |
+|       Regular Expressions |               |           |                  |
 |                  Equality | Not Supplied  |    ✅     |                  |
 |                      Sets | Not Supplied  |    ✅     |                  |
-|                Parameters | Not Supplied  |           |                  |
-|                   Structs | Not Supplied  |           |                  |
-|      Operator Overloading | Not Supplied  |           |                  |
-|              Nested Types | Not Supplied  |           |                  |
-|                 Constants | Not Supplied  |           |                  |
-|         Defensive Copying | Not Supplied  |           |                  |
-|      Readonly Collections | Not Supplied  |           |                  |
-|                Namespaces | Not Supplied  |           |                  |
+|                Parameters |               |           |                  |
+|                   Structs |               |           |                  |
+|      Operator Overloading |               |           |                  |
+|              Nested Types |               |           |                  |
+|                 Constants |               |           |                  |
+|         Defensive Copying |               |           |                  |
+|      Readonly Collections |               |           |                  |
+|                Namespaces |               |           |                  |
 
 ---
 
@@ -191,19 +191,19 @@
 | Numbers        | Not Supplied |    ✅     |                  |
 | Bools          | Not Supplied |    ✅     |        ✅        |
 | Conditionals   | Not Supplied |    ✅     |                  |
-| Strings        | Not Supplied |           |                  |
-| Comparisons    | Not Supplied |           |                  |
-| String Methods | Not Supplied |           |                  |
-| Lists          | Not Supplied |           |                  |
-| List Methods   | Not Supplied |           |                  |
-| Loops          | Not Supplied |           |                  |
-| Tuples         | Not Supplied |           |                  |
-| Dict           | Not Supplied |           |                  |
-| Dict Methods   | Not Supplied |           |                  |
-| Sets           | Not Supplied |           |                  |
-| Unpacking      | Not Supplied |           |                  |
-| Classes        | Not Supplied |           |                  |
-| Generators     | Not Supplied |           |                  
+| Strings        |              |           |                  |
+| Comparisons    |              |           |                  |
+| String Methods |              |           |                  |
+| Lists          |              |           |                  |
+| List Methods   |              |           |                  |
+| Loops          |              |           |                  |
+| Tuples         |              |           |                  |
+| Dict           |              |           |                  |
+| Dict Methods   |              |           |                  |
+| Sets           |              |           |                  |
+| Unpacking      |              |           |                  |
+| Classes        |              |           |                  |
+| Generators     |              |           |                  |
 
 ---
 
